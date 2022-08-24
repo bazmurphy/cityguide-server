@@ -17,7 +17,7 @@ const heathrow = require("./data/Heathrow.json");
 
 app.get("/", function (req, res) {
     // console.log("GET / route");
-    res.send("This is the Mini Guide API");
+    res.sendFile(__dirname + '/index.html');
 })
 
 // app.get("/favicon.ico", function (req, res) {
