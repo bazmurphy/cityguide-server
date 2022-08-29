@@ -1,1 +1,1 @@
-<a href="https://cyf-bazmurphy-cityguide.herokuapp.com" target="_blank">https://cyf-bazmurphy-cityguide.herokuapp.com</a>
+<a href="https://cyf-bazmurphy-cityguide-server.glitch.me" target="_blank">https://cyf-bazmurphy-cityguide-server.glitch.me</a>
